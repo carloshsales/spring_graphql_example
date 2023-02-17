@@ -1,1 +1,6 @@
-# spring_graphql_example
+# Spring GraphQL
+
+- Spring Web
+- Spring JPA
+- Spring GraphQL
+- H2 Database
